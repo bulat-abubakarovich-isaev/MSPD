@@ -30,8 +30,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -249,3 +249,4 @@ mininet, а также познакомились с основными кома
 
 
 [1] Mininet: https://mininet.org/
+
