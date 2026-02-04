@@ -30,8 +30,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -228,3 +228,4 @@ h1 настроен как клиент, а параметр 10.0.0.2 являе
 
 
 [1] Mininet: https://mininet.org/
+
