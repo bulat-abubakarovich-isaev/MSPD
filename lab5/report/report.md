@@ -30,8 +30,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -232,3 +232,4 @@ ping с параметром -c 50 с хоста h1 (рис. [-@fig:012]):
 
 
 [1] Mininet: https://mininet.org/
+
