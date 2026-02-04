@@ -30,8 +30,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -239,4 +239,5 @@ burst=1,000,000, limit=2,000,000 (рис. [-@fig:021]):
 
 
 [1] Mininet: https://mininet.org/
+
 
