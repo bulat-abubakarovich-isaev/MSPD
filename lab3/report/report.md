@@ -30,8 +30,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-	- spelling=modern
-	- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -173,3 +173,4 @@ CPULimitedHost и TCLink. Добавим в скрипт настройки па
 
 
 [1] Mininet: https://mininet.org/
+
